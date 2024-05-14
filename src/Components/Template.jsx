@@ -1,4 +1,4 @@
-// import { TemplateData } from "../data/data";
+
 import { HiOutlineArrowRight } from "react-icons/hi2";
 import { GrDownload } from "react-icons/gr";
 import { Formatting } from "./Formatting";
