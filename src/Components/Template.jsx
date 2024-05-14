@@ -1,7 +1,7 @@
 
 import { HiOutlineArrowRight } from "react-icons/hi2";
 import { GrDownload } from "react-icons/gr";
-import { Formatting } from "./Formatting";
+
 
 export const Template = ({ templateTpRender }) => {
   // const templateTpRender = TemplateData.templates.find(
