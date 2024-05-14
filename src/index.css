@@ -21,3 +21,21 @@
 .bgColor4 {
   background: linear-gradient(295.35deg, #3b4def 79.29%, #3945b0 85.82%);
 }
+
+.bgColor5 {
+  background: linear-gradient(
+    75.27deg,
+    #b4b728 21.84%,
+    #a5a818 24.38%,
+    #a5a818 29.79%,
+    #b4b728 32.5%,
+    #b4b728 48.41%,
+    #a5a818 51.62%,
+    #a5a818 75.48%,
+    #b4b728 80.93%
+  );
+}
+
+.bgColor6 {
+  background: linear-gradient(205.15deg, #1f2446 24.3%, #212858 31.84%);
+}

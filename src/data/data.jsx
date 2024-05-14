@@ -14,6 +14,24 @@ export const TemplateData = {
       image_url:
         "https://assets.standardresume.co/q_auto,f_auto,c_fill,w_1734/v1/resume-templates/georgia/modern-resume-template-digital-marketer.png",
       backgroundcolor: "bgColor1",
+      formattingHeader: "Resume Formatting",
+      formattingpara:
+        "Georgia is one of our most unique resume designs. It's defining design elements are the use of color and oversized initials in the header.",
+      formattingSubPara:
+        "You can easily customize the styling of this modern resume template to match your desired feel.",
+      formattingImg:
+        "https://assets.standardresume.co/q_auto,f_auto,c_fill,w_1772/v1/resume-templates/georgia/modern-resume-sample-design-details.png",
+      formattingFont: "Resume Font",
+      formattingsubheading: "The heading and body font is",
+      formattingFontWord: "Poppins ",
+      formattingAddWord: "by",
+      formattingFontLastWord: "Indian Type Foundry.",
+      formattingFontImg:
+        "https://assets.standardresume.co/q_auto,f_auto,c_fill,w_670/v1/resume-templates/georgia/font-for-modern-resume.png",
+      formattingFontdes:
+        "“Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre.”",
+      backgroundfont: "bgColor5",
+      backgroundformat: "bgColor6",
     },
     {
       template_id: 2,
